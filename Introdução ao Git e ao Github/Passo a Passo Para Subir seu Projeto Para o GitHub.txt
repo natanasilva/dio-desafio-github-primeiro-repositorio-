@@ -1,0 +1,13 @@
+Passo a Passo Sobre os Comandos Para GitHub
+ 
+* Acesse o seu perfil no GitHub ( https://github.com/ ) e crie o seu novo repositório
+* Adicione um nome para o seu repositório e uma descrição 
+* Deixe o seu repositório Publico
+* Inicialize o seu Git Bash dentro da sua pasta local do repositório
+* Faça um clone do seu repositório da NUVEM para a sua pasta local, Use o seguinte comando: git clone LINK HTTPS DO REPOSITÓRIO
+* Acesse o seu repositÓrio local com o Git Bash use o comando: cd NOME DO REPOSITÓRIO CLONADO
+* Use o comando "git status" para verificar o status atual do seu repositÓrio
+* Use o comando "git add ." para adcionar todos os arquivos ao git localment e ficar pronto no controle de  versão
+* Use o comando git commit -m "Comentário para descrição da sua versão" para  criar umcommit local
+* Use o comando "git push origin main" para enviar todos os commits locais para a NUVEM
+ 
